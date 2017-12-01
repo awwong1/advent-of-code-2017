@@ -1,0 +1,27 @@
+{
+  "name": "advent-of-code-2017",
+  "version": "0.0.0",
+  "description": "Advent of Code 2017 solutions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://pi.alexander-wong.com/gogs/alex/advent-of-code-2017.git"
+  },
+  "author": "Alexander Wong",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
