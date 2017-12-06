@@ -1048,6 +1048,6 @@ const input = `2
 -191
 -866`
 
-console.log(solve(input))
+// console.log(solve(input))
 
 module.exports = { solve }

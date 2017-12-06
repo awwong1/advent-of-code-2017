@@ -1,7 +1,7 @@
 'use strict'
 
 const input = 312051
-console.log(solve(input))
+// console.log(solve(input))
 
 function solve (input) {
   const initialState = {

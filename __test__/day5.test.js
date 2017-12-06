@@ -1,7 +1,7 @@
 'use strict'
 const { solve } = require('../src/day5')
 
-describe('Day 4', () => {
+describe('Day 5', () => {
   it('should pass description input (Twisty Trampolines)', async done => {
     expect(solve(`0
     3
